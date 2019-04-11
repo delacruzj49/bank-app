@@ -19,7 +19,7 @@ public class Customer {
         
                            Transactions first = new Transactions();
                            
-                            Scanner fileScanner = null;
+                           Scanner fileScanner = null;
 
                            try {
 
